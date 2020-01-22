@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
+def my_each(collection)
+  i = 0
+  while
   # code here
 end
